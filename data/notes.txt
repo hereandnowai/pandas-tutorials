@@ -25,3 +25,7 @@ people = {
         "salman.khan@hereandnowai.com"
     ]
 }
+
+
+100 pandas activities ipynb link:
+https://github.com/ruthranraghavan/pandas_exercises/blob/master/100-pandas-puzzles.ipynb
