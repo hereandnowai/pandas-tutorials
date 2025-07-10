@@ -1,0 +1,27 @@
+pandas:
+
+dummy_data
+person = {
+    "first": "Arjun",
+    "last": "Sharma",
+    "email": "arjun.sharma@hereandnowai.com"
+}
+
+people = {
+    "first": ["Arjun"],
+    "last": ["Sharma"],
+    "email": ["arjun.sharma@hereandnowai.com"]
+}
+
+people = {
+    "first": ["Arjun", "Priya", "Ahmed", "Fatima", "Joseph", "Salman"],
+    "last": ["Sharma", "Patel", "Khan", "Mohiuddin", "Fernandes", "Khan"],
+    "email": [
+        "arjun.sharma@hereandnowai.com",
+        "priya.patel@hereandnowai.com",
+        "ahmed.khan@hereandnowai.com",
+        "fatima.mohiuddin@hereandnowai.com",
+        "joseph.fernandes@hereandnowai.com",
+        "salman.khan@hereandnowai.com"
+    ]
+}
